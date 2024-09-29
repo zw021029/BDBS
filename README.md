@@ -1,2 +1,2 @@
-# BDBS: Being a distinguish data scientist!
+# BDDS: Being a distinguish data scientist!
 Being a distinguish data scientist!
